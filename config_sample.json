@@ -1,0 +1,8 @@
+{
+  "from": "email@provider.com",
+  "to": "email2@provider.com",
+  "subject": "Subject",
+  "content": "Content",
+  "attachments": { "filename": "filename", "path": "path" },
+  "amount": "1"
+}
